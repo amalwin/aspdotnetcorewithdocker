@@ -1,0 +1,10 @@
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\bin\Debug\netcoreapp1.1\DotNetWebApplication.deps.json
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\bin\Debug\netcoreapp1.1\DotNetWebApplication.runtimeconfig.json
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\bin\Debug\netcoreapp1.1\DotNetWebApplication.runtimeconfig.dev.json
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\bin\Debug\netcoreapp1.1\DotNetWebApplication.dll
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\bin\Debug\netcoreapp1.1\DotNetWebApplication.pdb
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\obj\Debug\netcoreapp1.1\DotNetWebApplication.csprojResolveAssemblyReference.cache
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\obj\Debug\netcoreapp1.1\DotNetWebApplication.csproj.CoreCompileInputs.cache
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\obj\Debug\netcoreapp1.1\DotNetWebApplication.AssemblyInfo.cs
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\obj\Debug\netcoreapp1.1\DotNetWebApplication.dll
+C:\Transit\dotnetcore\DotNetWebApplication\DotNetWebApplication\obj\Debug\netcoreapp1.1\DotNetWebApplication.pdb

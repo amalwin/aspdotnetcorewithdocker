@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dotnetwebapplication:
+    image: dotnetwebapplication
+    build:
+      context: ./DotNetWebApplication
+      dockerfile: Dockerfile
